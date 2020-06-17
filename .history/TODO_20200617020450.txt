@@ -1,0 +1,7 @@
+Done:
+-save text in box to local storage
+-working start/stop (submit) button
+
+TODO?
+-save to lists of text
+-make title for dynamic texts to be saved
